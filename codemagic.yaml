@@ -6,6 +6,7 @@ workflows:
 
     environment:
       java: 17
+      ndk: 21.4.7075529
 
     scripts:
       - name: Set Android SDK location
